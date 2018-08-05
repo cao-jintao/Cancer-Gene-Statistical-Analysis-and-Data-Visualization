@@ -1,0 +1,1535 @@
+Sample Id	Cancer Study	Profile Name	Gene	Mutation	Value
+TCGA-AA-3526-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2731.5621
+TCGA-AA-3685-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2602.9981
+TCGA-AA-A01P-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4397.7221
+TCGA-AA-A01X-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6486.4486
+TCGA-AA-A01Z-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2941.6309
+TCGA-AA-A02Y-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3933.9339
+TCGA-2H-A9GF-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	259536.6808
+TCGA-2H-A9GG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	572.3270
+TCGA-2H-A9GI-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	28802.6700
+TCGA-2H-A9GJ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7549.0854
+TCGA-2H-A9GK-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3488.2257
+TCGA-2H-A9GL-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	752.3810
+TCGA-2H-A9GM-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3791.8327
+TCGA-2H-A9GN-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3414.7767
+TCGA-2H-A9GO-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3631.1822
+TCGA-2H-A9GQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4902.0139
+TCGA-2H-A9GR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5269.0404
+TCGA-IC-A6RE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16262.5259
+TCGA-IC-A6RF-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8747.3205
+TCGA-IG-A3I8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2030.4337
+TCGA-IG-A3QL-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3475.6325
+TCGA-IG-A3Y9-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2465.3226
+TCGA-IG-A3YA-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1989.6618
+TCGA-IG-A3YB-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4271.0503
+TCGA-IG-A3YC-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3315.2228
+TCGA-IG-A4P3-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5852.7000
+TCGA-IG-A4QS-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3127.1904
+TCGA-IG-A4QT-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	337.0762
+TCGA-IG-A50L-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1683.4497
+TCGA-IG-A51D-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2953.1718
+TCGA-IG-A5B8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	909.2918
+TCGA-IG-A5S3-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2875.7787
+TCGA-IG-A625-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2737.3729
+TCGA-IG-A6QS-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1482.7680
+TCGA-IG-A7DP-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2440.1797
+TCGA-IG-A8O2-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3879.7977
+TCGA-IG-A97H-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1485.6230
+TCGA-IG-A97I-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3509.8813
+TCGA-JY-A6F8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4341.0853
+TCGA-JY-A6FA-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4837.3302
+TCGA-JY-A6FB-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	28124.5645
+TCGA-JY-A6FD-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2894.0534
+TCGA-JY-A6FE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2981.0047
+TCGA-JY-A6FG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5654.7607
+TCGA-JY-A6FH-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6236.5476
+TCGA-JY-A939-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2664.3768
+TCGA-JY-A93C-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7625.4140
+TCGA-JY-A93D-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3304.0194
+TCGA-JY-A93E-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6712.7475
+TCGA-JY-A93F-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4260.4051
+TCGA-KH-A6WC-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	12220.4763
+TCGA-L5-A43C-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1421.8709
+TCGA-L5-A43E-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5748.2493
+TCGA-L5-A43H-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6016.2003
+TCGA-L5-A43I-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11442.6099
+TCGA-L5-A43J-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1990.7692
+TCGA-L5-A43M-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7024.6923
+TCGA-L5-A4OE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2653.8995
+TCGA-L5-A4OF-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4888.4263
+TCGA-L5-A4OG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3847.7785
+TCGA-L5-A4OH-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5426.7671
+TCGA-L5-A4OJ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5314.2446
+TCGA-L5-A4OM-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3040.3030
+TCGA-L5-A4ON-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6302.4072
+TCGA-L5-A4OO-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7686.7925
+TCGA-L5-A4OP-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7585.4834
+TCGA-L5-A4OQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7750.7492
+TCGA-L5-A4OR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4329.0722
+TCGA-L5-A4OS-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7699.1653
+TCGA-L5-A4OT-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3235.7532
+TCGA-L5-A4OW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	118367.1727
+TCGA-L5-A4OX-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4079.8611
+TCGA-L5-A88S-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2223.3356
+TCGA-L5-A88T-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10355.8906
+TCGA-L5-A88W-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2520.9472
+TCGA-L5-A88Y-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5400.6165
+TCGA-L5-A88Z-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6155.1995
+TCGA-L5-A891-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3680.9838
+TCGA-L5-A893-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5869.9934
+TCGA-L5-A8NE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7078.8264
+TCGA-L5-A8NF-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5811.6496
+TCGA-L5-A8NG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	23574.3001
+TCGA-L5-A8NH-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5690.2887
+TCGA-L5-A8NI-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8427.5785
+TCGA-L5-A8NJ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	156510.5413
+TCGA-L5-A8NK-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5396.0997
+TCGA-L5-A8NL-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	18588.8742
+TCGA-L5-A8NN-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3887.3774
+TCGA-L5-A8NQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5700.5780
+TCGA-L5-A8NR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	114958.5440
+TCGA-L5-A8NS-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6262.2866
+TCGA-L5-A8NT-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4247.6048
+TCGA-L5-A8NU-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3415.2977
+TCGA-L5-A8NV-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3249.5446
+TCGA-L5-A8NW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5011.1189
+TCGA-L7-A56G-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5587.1822
+TCGA-L7-A6VZ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9837.7125
+TCGA-LN-A49K-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1956.8195
+TCGA-LN-A49L-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7936.2964
+TCGA-LN-A49M-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1916.1218
+TCGA-LN-A49N-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2093.0666
+TCGA-LN-A49O-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1381.5958
+TCGA-LN-A49P-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1975.5300
+TCGA-LN-A49R-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1936.9172
+TCGA-LN-A49S-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5259.2254
+TCGA-LN-A49U-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2835.9114
+TCGA-LN-A49V-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2100.3581
+TCGA-LN-A49W-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1849.6756
+TCGA-LN-A49X-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2396.1353
+TCGA-LN-A49Y-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2473.6550
+TCGA-LN-A4A1-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1979.1976
+TCGA-LN-A4A2-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4492.4061
+TCGA-LN-A4A3-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3546.4943
+TCGA-LN-A4A4-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4575.4753
+TCGA-LN-A4A5-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3374.4977
+TCGA-LN-A4A6-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2292.8594
+TCGA-LN-A4A8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10447.0732
+TCGA-LN-A4A9-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1956.9328
+TCGA-LN-A4MQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3126.9841
+TCGA-LN-A4MR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2414.4841
+TCGA-LN-A5U5-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2118.1070
+TCGA-LN-A5U6-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1816.4073
+TCGA-LN-A5U7-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1252.2086
+TCGA-LN-A7HV-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2520.5592
+TCGA-LN-A7HW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1422.9475
+TCGA-LN-A7HX-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3520.9274
+TCGA-LN-A7HY-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3140.3974
+TCGA-LN-A7HZ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1445.1424
+TCGA-LN-A8HZ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2253.6506
+TCGA-LN-A8I0-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1984.9041
+TCGA-LN-A8I1-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3081.8857
+TCGA-LN-A9FO-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2178.0595
+TCGA-LN-A9FP-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2284.0957
+TCGA-LN-A9FQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2890.8535
+TCGA-LN-A9FR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1628.1451
+TCGA-M9-A5M8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	250593.0555
+TCGA-Q9-A6FU-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3355.1054
+TCGA-Q9-A6FW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8193.8452
+TCGA-R6-A6DN-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3826.1656
+TCGA-R6-A6L4-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5153.6204
+TCGA-R6-A6L6-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7692.5158
+TCGA-R6-A6XG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5171.5131
+TCGA-R6-A6XQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3489.1755
+TCGA-R6-A6Y0-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9091.5805
+TCGA-R6-A6Y2-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4613.5653
+TCGA-R6-A8W5-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	201404.9848
+TCGA-RE-A7BO-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4888.1111
+TCGA-S8-A6BV-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2815.0397
+TCGA-S8-A6BW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2965.3884
+TCGA-V5-A7RB-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7180.3863
+TCGA-V5-A7RC-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4721.1385
+TCGA-V5-A7RE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	78391.7708
+TCGA-V5-AASV-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6547.6000
+TCGA-V5-AASW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	14066.3798
+TCGA-V5-AASX-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10951.1778
+TCGA-VR-A8EO-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1161.5385
+TCGA-VR-A8EP-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4477.4718
+TCGA-VR-A8EQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7439.1687
+TCGA-VR-A8ER-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2433.4353
+TCGA-VR-A8ET-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5545.7982
+TCGA-VR-A8EU-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2275.2664
+TCGA-VR-A8EW-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4668.4994
+TCGA-VR-A8EX-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11631.7794
+TCGA-VR-A8EY-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2955.0408
+TCGA-VR-A8EZ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	767.3394
+TCGA-VR-A8Q7-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3786.4216
+TCGA-VR-AA4D-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	172199.9246
+TCGA-VR-AA4G-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2735.1210
+TCGA-VR-AA7B-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	48655.8855
+TCGA-VR-AA7D-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1537.1189
+TCGA-VR-AA7I-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3247.0817
+TCGA-X8-AAAR-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11845.6514
+TCGA-XP-A8T6-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6975.7570
+TCGA-XP-A8T8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4346.8501
+TCGA-Z6-A8JD-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1470.6395
+TCGA-Z6-A8JE-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5512.3359
+TCGA-Z6-A9VB-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4308.0268
+TCGA-Z6-AAPN-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1627.9004
+TCGA-ZR-A9CJ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2164.9737
+TCGA-2V-A95S-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	440.4626
+TCGA-2Y-A9GS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2040.9069
+TCGA-2Y-A9GT-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8420.5335
+TCGA-2Y-A9GU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	509.6593
+TCGA-2Y-A9GV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3583.7563
+TCGA-2Y-A9GW-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2866.6667
+TCGA-2Y-A9GX-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3966.6667
+TCGA-2Y-A9GY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3140.8677
+TCGA-2Y-A9GZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1905.1195
+TCGA-2Y-A9H0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	524.2415
+TCGA-2Y-A9H1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2642.3822
+TCGA-2Y-A9H2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7704.1898
+TCGA-2Y-A9H3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	382.1340
+TCGA-2Y-A9H4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1023.2781
+TCGA-2Y-A9H5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2846.4419
+TCGA-2Y-A9H6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	512.3662
+TCGA-2Y-A9H7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1104.6312
+TCGA-2Y-A9H8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3521.1895
+TCGA-2Y-A9H9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4923.8217
+TCGA-2Y-A9HA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1146.2347
+TCGA-2Y-A9HB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2656.5159
+TCGA-3K-AAZ8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	223.8196
+TCGA-4R-AA8I-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1788.4615
+TCGA-5C-A9VG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	348.0176
+TCGA-5C-A9VH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1926.1560
+TCGA-5C-AAPD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3464.0673
+TCGA-5R-AA1C-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	128.9298
+TCGA-5R-AA1D-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5277.1251
+TCGA-5R-AAAM-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4279.2998
+TCGA-BC-4073-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4366.8801
+TCGA-BC-A10Q-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9081.5036
+TCGA-BC-A10R-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2616.5824
+TCGA-BC-A10T-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2571.7647
+TCGA-BC-A10U-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1451.6729
+TCGA-BC-A10W-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	695.0192
+TCGA-BC-A10X-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2221.3104
+TCGA-BC-A10Y-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4827.6357
+TCGA-BC-A10Z-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3148.9270
+TCGA-BC-A110-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2504.0000
+TCGA-BC-A112-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1960.9208
+TCGA-BC-A216-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	657.1574
+TCGA-BC-A217-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1125.9518
+TCGA-BC-A3KF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1798.6288
+TCGA-BC-A5W4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1839.6351
+TCGA-BC-A69H-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	675.1825
+TCGA-BC-A8YO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	776.0259
+TCGA-BD-A2L6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5231.6327
+TCGA-BD-A3EP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4178.1518
+TCGA-BD-A3ER-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1875.9029
+TCGA-BW-A5NO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4726.2347
+TCGA-BW-A5NP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1285.0171
+TCGA-BW-A5NQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	329.3037
+TCGA-CC-5258-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1099.0005
+TCGA-CC-5259-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2206.1192
+TCGA-CC-5260-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7308.5469
+TCGA-CC-5261-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3060.3153
+TCGA-CC-5262-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1230.0030
+TCGA-CC-5263-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2489.8273
+TCGA-CC-5264-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	881.8272
+TCGA-CC-A123-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2146.2979
+TCGA-CC-A1HT-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1737.5627
+TCGA-CC-A3M9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1060.5635
+TCGA-CC-A3MA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4495.8437
+TCGA-CC-A3MB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3442.5409
+TCGA-CC-A3MC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1146.4990
+TCGA-CC-A5UC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1172.0656
+TCGA-CC-A5UD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1732.5462
+TCGA-CC-A5UE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3204.8962
+TCGA-CC-A7IE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1179.4258
+TCGA-CC-A7IF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3466.6236
+TCGA-CC-A7IG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9970.0014
+TCGA-CC-A7IH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	931.1904
+TCGA-CC-A7II-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	968.3100
+TCGA-CC-A7IJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	918.1452
+TCGA-CC-A7IK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	888.9442
+TCGA-CC-A7IL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3318.8639
+TCGA-CC-A8HS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2173.7427
+TCGA-CC-A8HT-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	258.5575
+TCGA-CC-A8HU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2276.9397
+TCGA-CC-A8HV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3141.9676
+TCGA-CC-A9FS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	407.1197
+TCGA-CC-A9FU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1796.7838
+TCGA-CC-A9FV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	967.6166
+TCGA-CC-A9FW-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3875.5165
+TCGA-DD-A113-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7374.7619
+TCGA-DD-A114-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	723.7160
+TCGA-DD-A115-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4237.4608
+TCGA-DD-A116-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	933.5102
+TCGA-DD-A118-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	171.6829
+TCGA-DD-A119-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1450.7808
+TCGA-DD-A11A-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3905.5463
+TCGA-DD-A11B-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4024.8510
+TCGA-DD-A11C-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10315.6150
+TCGA-DD-A11D-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8053.8721
+TCGA-DD-A1EA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	306.5984
+TCGA-DD-A1EB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8588.5100
+TCGA-DD-A1EC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6072.1443
+TCGA-DD-A1ED-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1295.9668
+TCGA-DD-A1EE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	208.2713
+TCGA-DD-A1EF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	440.9318
+TCGA-DD-A1EG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1354.0141
+TCGA-DD-A1EH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	288.4848
+TCGA-DD-A1EI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4244.4083
+TCGA-DD-A1EJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	962.3547
+TCGA-DD-A1EK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	382.4268
+TCGA-DD-A1EL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	805.1195
+TCGA-DD-A39V-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	659.2889
+TCGA-DD-A39W-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4149.0980
+TCGA-DD-A39X-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	880.6413
+TCGA-DD-A39Y-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	516.2728
+TCGA-DD-A39Z-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1745.3250
+TCGA-DD-A3A1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1086.7980
+TCGA-DD-A3A2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3440.5432
+TCGA-DD-A3A3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2150.8439
+TCGA-DD-A3A4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5476.2935
+TCGA-DD-A3A5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10463.5372
+TCGA-DD-A3A6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	964.7887
+TCGA-DD-A3A7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2398.4799
+TCGA-DD-A3A8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1073.6240
+TCGA-DD-A3A9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	634.5492
+TCGA-DD-A4NA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	18495.8003
+TCGA-DD-A4NB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4189.3266
+TCGA-DD-A4ND-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2968.4991
+TCGA-DD-A4NE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	908.2462
+TCGA-DD-A4NF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	416.0839
+TCGA-DD-A4NG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3383.0749
+TCGA-DD-A4NH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	344.7705
+TCGA-DD-A4NI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4573.5646
+TCGA-DD-A4NJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3798.7564
+TCGA-DD-A4NK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3162.4575
+TCGA-DD-A4NL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1862.2449
+TCGA-DD-A4NN-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1829.0891
+TCGA-DD-A4NO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5604.0146
+TCGA-DD-A4NP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	477.0739
+TCGA-DD-A4NQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	658.4126
+TCGA-DD-A4NR-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1785.0568
+TCGA-DD-A4NS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2667.0108
+TCGA-DD-A4NV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4991.3001
+TCGA-DD-A73A-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4646.9395
+TCGA-DD-A73B-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4215.3928
+TCGA-DD-A73C-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4748.9489
+TCGA-DD-A73D-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1603.8297
+TCGA-DD-A73E-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1101.9499
+TCGA-DD-A73F-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1319.0647
+TCGA-DD-A73G-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4399.3344
+TCGA-DD-AA3A-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	414.3969
+TCGA-DD-AAC8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	212.6607
+TCGA-DD-AAC9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1727.5542
+TCGA-DD-AACA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4040.5096
+TCGA-DD-AACB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1896.1424
+TCGA-DD-AACC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2180.2054
+TCGA-DD-AACD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1048.3800
+TCGA-DD-AACE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1069.6151
+TCGA-DD-AACF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4481.6484
+TCGA-DD-AACG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1627.3171
+TCGA-DD-AACH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	827.0571
+TCGA-DD-AACI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2178.0455
+TCGA-DD-AACJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3174.7972
+TCGA-DD-AACK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3315.9558
+TCGA-DD-AACL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	517.1271
+TCGA-DD-AACN-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	315.1335
+TCGA-DD-AACO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2543.8533
+TCGA-DD-AACP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3259.2593
+TCGA-DD-AACQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5703.1029
+TCGA-DD-AACS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5853.4152
+TCGA-DD-AACT-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	887.9278
+TCGA-DD-AACU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4725.6484
+TCGA-DD-AACV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8294.8206
+TCGA-DD-AACW-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2677.9456
+TCGA-DD-AACX-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2798.2834
+TCGA-DD-AACY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2425.5860
+TCGA-DD-AACZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	595.2381
+TCGA-DD-AAD0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	14115.3677
+TCGA-DD-AAD1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1116.6033
+TCGA-DD-AAD2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2862.0370
+TCGA-DD-AAD3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4523.4412
+TCGA-DD-AAD5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3499.7453
+TCGA-DD-AAD6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2404.5276
+TCGA-DD-AAD8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4553.9042
+TCGA-DD-AADA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	117.8121
+TCGA-DD-AADB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1533.6213
+TCGA-DD-AADC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	776.4026
+TCGA-DD-AADD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2193.6232
+TCGA-DD-AADF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1110.1171
+TCGA-DD-AADG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	472.7328
+TCGA-DD-AADI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1077.6488
+TCGA-DD-AADJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8880.6371
+TCGA-DD-AADK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1798.0319
+TCGA-DD-AADL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2061.1293
+TCGA-DD-AADM-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1947.2676
+TCGA-DD-AADN-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	126.5432
+TCGA-DD-AADO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	494.6996
+TCGA-DD-AADP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1641.2162
+TCGA-DD-AADQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	813.4817
+TCGA-DD-AADR-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1795.3964
+TCGA-DD-AADS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6976.5013
+TCGA-DD-AADU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1543.5648
+TCGA-DD-AADV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3495.1583
+TCGA-DD-AADW-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1986.3014
+TCGA-DD-AADY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	120.9960
+TCGA-DD-AAE0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3154.7464
+TCGA-DD-AAE1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1826.3822
+TCGA-DD-AAE2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6435.6328
+TCGA-DD-AAE3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3398.2002
+TCGA-DD-AAE4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2540.3966
+TCGA-DD-AAE6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1676.8208
+TCGA-DD-AAE7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5752.0084
+TCGA-DD-AAE9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1070.5183
+TCGA-DD-AAEA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1594.6449
+TCGA-DD-AAEB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	899.8996
+TCGA-DD-AAED-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5467.3605
+TCGA-DD-AAEE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4726.9794
+TCGA-DD-AAEG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	792.0741
+TCGA-DD-AAEH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2552.4194
+TCGA-DD-AAEI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2656.1324
+TCGA-DD-AAEK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2705.1989
+TCGA-DD-AAVP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2683.4061
+TCGA-DD-AAVQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2307.0276
+TCGA-DD-AAVR-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	338.5768
+TCGA-DD-AAVS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2768.5874
+TCGA-DD-AAVU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2595.6113
+TCGA-DD-AAVV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	678.7634
+TCGA-DD-AAVW-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1050.8534
+TCGA-DD-AAVX-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1474.7706
+TCGA-DD-AAVY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1010.1216
+TCGA-DD-AAVZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2307.5871
+TCGA-DD-AAW0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2740.1581
+TCGA-DD-AAW1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1109.1127
+TCGA-DD-AAW2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1311.5578
+TCGA-DD-AAW3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2237.2881
+TCGA-ED-A459-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	637.5160
+TCGA-ED-A4XI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2720.3947
+TCGA-ED-A5KG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1301.5633
+TCGA-ED-A627-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4585.5908
+TCGA-ED-A66X-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2449.2110
+TCGA-ED-A66Y-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4613.0884
+TCGA-ED-A7PX-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1878.4651
+TCGA-ED-A7PY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1842.7627
+TCGA-ED-A7PZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6463.7402
+TCGA-ED-A7XO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10572.3284
+TCGA-ED-A7XP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	725.6484
+TCGA-ED-A82E-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3103.2413
+TCGA-ED-A8O5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	220.0000
+TCGA-ED-A8O6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2723.9515
+TCGA-ED-A97K-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5939.0338
+TCGA-EP-A12J-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	839.0299
+TCGA-EP-A26S-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	730.1552
+TCGA-EP-A2KB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3129.9326
+TCGA-EP-A2KC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3480.1927
+TCGA-EP-A3JL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1640.2715
+TCGA-EP-A3RK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	649.2027
+TCGA-ES-A2HS-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	13224.4196
+TCGA-ES-A2HT-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2443.4643
+TCGA-FV-A23B-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2359.0681
+TCGA-FV-A2QQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2278.0213
+TCGA-FV-A2QR-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	389.6336
+TCGA-FV-A3I0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4348.2090
+TCGA-FV-A3I1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4199.3626
+TCGA-FV-A3R2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	991.9618
+TCGA-FV-A3R3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	556.7377
+TCGA-FV-A495-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2867.7165
+TCGA-FV-A496-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5128.0566
+TCGA-FV-A4ZP-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1717.1351
+TCGA-FV-A4ZQ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1476.2402
+TCGA-G3-A25S-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	188.3738
+TCGA-G3-A25T-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5454.4666
+TCGA-G3-A25U-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5627.9672
+TCGA-G3-A25V-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3052.6316
+TCGA-G3-A25Y-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1224.0998
+TCGA-G3-A25Z-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4996.5718
+TCGA-G3-A3CG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3773.0061
+TCGA-G3-A3CH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4593.6866
+TCGA-G3-A3CI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2238.1387
+TCGA-G3-A3CJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	275.5725
+TCGA-G3-A3CK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	395.1192
+TCGA-G3-A5SI-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3911.4788
+TCGA-G3-A5SJ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4159.2196
+TCGA-G3-A5SK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4647.3684
+TCGA-G3-A5SL-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1851.7687
+TCGA-G3-A5SM-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3216.3561
+TCGA-G3-A6UC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1576.7707
+TCGA-G3-A7M5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2436.4014
+TCGA-G3-A7M6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6648.6540
+TCGA-G3-A7M7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4768.7139
+TCGA-G3-A7M8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5204.2683
+TCGA-G3-A7M9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1249.9265
+TCGA-G3-AAUZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7973.3149
+TCGA-G3-AAV0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8636.0672
+TCGA-G3-AAV1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1758.1945
+TCGA-G3-AAV2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	603.4374
+TCGA-G3-AAV3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	500.6443
+TCGA-G3-AAV4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	235.5051
+TCGA-G3-AAV5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	605.6454
+TCGA-G3-AAV6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4311.2969
+TCGA-G3-AAV7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	258.4411
+TCGA-GJ-A3OU-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	920.7938
+TCGA-GJ-A6C0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	347.2147
+TCGA-GJ-A9DB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2537.7188
+TCGA-HP-A5MZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1865.6430
+TCGA-HP-A5N0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3057.5540
+TCGA-K7-A5RF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3774.6695
+TCGA-K7-A5RG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7113.1851
+TCGA-K7-A6G5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5401.5219
+TCGA-K7-AAU7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4687.1364
+TCGA-KR-A7K0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1361.8501
+TCGA-KR-A7K2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3546.3411
+TCGA-KR-A7K7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1755.5402
+TCGA-KR-A7K8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2088.0640
+TCGA-LG-A6GG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	821.5159
+TCGA-LG-A9QC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	287.3259
+TCGA-LG-A9QD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4098.6014
+TCGA-MI-A75C-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	367.0285
+TCGA-MI-A75E-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3384.3555
+TCGA-MI-A75G-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2373.4958
+TCGA-MI-A75H-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	292.7400
+TCGA-MI-A75I-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1633.7855
+TCGA-MR-A520-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3447.4499
+TCGA-MR-A8JO-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5471.1684
+TCGA-NI-A4U2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7380.5210
+TCGA-NI-A8LF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4995.5208
+TCGA-O8-A75V-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2704.2133
+TCGA-PD-A5DF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6613.6631
+TCGA-QA-A7B7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2985.3923
+TCGA-RC-A6M3-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3741.8366
+TCGA-RC-A6M4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	867.4371
+TCGA-RC-A6M5-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11512.6904
+TCGA-RC-A6M6-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4442.0765
+TCGA-RC-A7S9-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1760.6966
+TCGA-RC-A7SB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2717.0526
+TCGA-RC-A7SF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5482.4903
+TCGA-RC-A7SH-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5390.7377
+TCGA-RC-A7SK-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3082.2348
+TCGA-RG-A7D4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2859.1445
+TCGA-T1-A6J8-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4967.4446
+TCGA-UB-A7MA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2991.0269
+TCGA-UB-A7MB-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4125.4682
+TCGA-UB-A7MC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3135.7374
+TCGA-UB-A7MD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1034.5423
+TCGA-UB-A7ME-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2780.1039
+TCGA-UB-A7MF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1359.5080
+TCGA-UB-AA0U-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3590.0552
+TCGA-UB-AA0V-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3067.3935
+TCGA-WJ-A86L-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5066.5779
+TCGA-WQ-A9G7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2258.9600
+TCGA-WQ-AB4B-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3216.9920
+TCGA-WX-AA44-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1552.4257
+TCGA-WX-AA46-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2643.8438
+TCGA-WX-AA47-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	973.6842
+TCGA-XR-A8TC-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3020.9496
+TCGA-XR-A8TD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4109.0470
+TCGA-XR-A8TE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1896.1997
+TCGA-XR-A8TF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1880.7278
+TCGA-XR-A8TG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5273.0551
+TCGA-YA-A8S7-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	177.0583
+TCGA-ZP-A9CY-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6633.0557
+TCGA-ZP-A9CZ-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3179.2643
+TCGA-ZP-A9D0-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	954.9550
+TCGA-ZP-A9D1-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1149.1961
+TCGA-ZP-A9D2-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1302.7656
+TCGA-ZP-A9D4-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5726.4885
+TCGA-ZS-A9CD-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2283.9970
+TCGA-ZS-A9CE-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1975.9300
+TCGA-ZS-A9CF-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2039.9724
+TCGA-ZS-A9CG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1031.7052
+TCGA-2J-AAB1-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9425.8537
+TCGA-2J-AAB4-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5447.8114
+TCGA-2J-AAB6-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2935.0877
+TCGA-2J-AAB8-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8920.3290
+TCGA-2J-AAB9-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4796.3558
+TCGA-2J-AABA-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7337.4041
+TCGA-2J-AABE-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6922.7686
+TCGA-2J-AABF-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5226.1894
+TCGA-2J-AABH-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6403.7456
+TCGA-2J-AABI-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5337.4456
+TCGA-2J-AABK-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5784.6088
+TCGA-2J-AABO-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5891.8269
+TCGA-2J-AABR-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4688.9301
+TCGA-2J-AABT-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4155.8198
+TCGA-2J-AABU-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5689.9563
+TCGA-2J-AABV-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4448.8189
+TCGA-2L-AAQA-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	14206.7163
+TCGA-2L-AAQE-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5649.2122
+TCGA-2L-AAQI-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6036.2251
+TCGA-2L-AAQJ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10923.7624
+TCGA-2L-AAQL-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16548.8602
+TCGA-3A-A9I5-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3645.2581
+TCGA-3A-A9I7-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4683.8546
+TCGA-3A-A9I9-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3926.9122
+TCGA-3A-A9IB-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5450.3678
+TCGA-3A-A9IC-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6282.9630
+TCGA-3A-A9IH-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6567.4184
+TCGA-3A-A9IU-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8844.4640
+TCGA-3A-A9IX-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4191.1179
+TCGA-3A-A9IZ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5392.5651
+TCGA-3A-A9J0-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	233626.6174
+TCGA-3E-AAAY-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5652.3647
+TCGA-3E-AAAZ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6387.8085
+TCGA-F2-6879-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4992.9329
+TCGA-F2-A44G-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6359.8234
+TCGA-F2-A44H-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4390.3803
+TCGA-F2-A7TX-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4513.1926
+TCGA-F2-A8YN-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5180.5386
+TCGA-FB-A4P5-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3088.4329
+TCGA-FB-A4P6-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6619.8910
+TCGA-FB-A545-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4782.7403
+TCGA-FB-A5VM-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4621.8049
+TCGA-FB-A78T-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7277.1536
+TCGA-FB-AAPQ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2773.9886
+TCGA-FB-AAPS-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3246.2069
+TCGA-FB-AAPU-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8148.2163
+TCGA-FB-AAPY-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6553.0878
+TCGA-FB-AAPZ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6016.6546
+TCGA-FB-AAQ0-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6122.1106
+TCGA-FB-AAQ1-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6224.8314
+TCGA-FB-AAQ2-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5710.5631
+TCGA-FB-AAQ3-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7608.3345
+TCGA-FB-AAQ6-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5519.2488
+TCGA-H6-8124-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5040.6097
+TCGA-H6-A45N-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4873.7334
+TCGA-HV-A5A3-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10208.2530
+TCGA-HV-A5A4-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8102.0956
+TCGA-HV-A5A5-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3842.2877
+TCGA-HV-A5A6-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6452.8908
+TCGA-HV-A7OL-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8133.7030
+TCGA-HV-AA8V-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4753.1523
+TCGA-HV-AA8X-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	14933.6503
+TCGA-HZ-7919-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7138.5566
+TCGA-HZ-7922-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5952.0343
+TCGA-HZ-7925-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3798.8704
+TCGA-HZ-7926-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3147.3557
+TCGA-HZ-8001-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2829.0389
+TCGA-HZ-8002-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3404.6346
+TCGA-HZ-8003-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2732.0399
+TCGA-HZ-8005-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5753.3420
+TCGA-HZ-8315-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4655.0549
+TCGA-HZ-8317-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3135.4658
+TCGA-HZ-8519-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2050.8224
+TCGA-HZ-8636-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3775.9329
+TCGA-HZ-8637-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3712.4560
+TCGA-HZ-A49G-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4921.7724
+TCGA-HZ-A49H-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3070.1025
+TCGA-HZ-A49I-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6291.2942
+TCGA-HZ-A4BH-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16026.3979
+TCGA-HZ-A4BK-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5989.8746
+TCGA-HZ-A77O-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4506.5916
+TCGA-HZ-A77P-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3486.5798
+TCGA-HZ-A77Q-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3594.0071
+TCGA-HZ-A8P0-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4751.4404
+TCGA-HZ-A8P1-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6208.9820
+TCGA-HZ-A9TJ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7596.4810
+TCGA-IB-7644-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10064.7239
+TCGA-IB-7645-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3941.3721
+TCGA-IB-7646-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5021.8274
+TCGA-IB-7647-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5000.7841
+TCGA-IB-7649-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4535.7386
+TCGA-IB-7652-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3455.6056
+TCGA-IB-7885-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5143.5764
+TCGA-IB-7886-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3785.2026
+TCGA-IB-7887-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7075.0635
+TCGA-IB-7888-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3145.8448
+TCGA-IB-7889-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6858.6733
+TCGA-IB-7890-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3408.2524
+TCGA-IB-7891-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3672.7780
+TCGA-IB-7893-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3541.6042
+TCGA-IB-7897-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1697.1449
+TCGA-IB-8126-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2544.2744
+TCGA-IB-A5SO-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5219.2948
+TCGA-IB-A5SP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6968.4802
+TCGA-IB-A5SQ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3239.3962
+TCGA-IB-A5SS-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7157.4153
+TCGA-IB-A5ST-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3454.7837
+TCGA-IB-A6UF-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4467.5940
+TCGA-IB-A6UG-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5256.2573
+TCGA-IB-A7LX-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7885.5285
+TCGA-IB-A7M4-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4230.2815
+TCGA-IB-AAUM-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3950.5376
+TCGA-IB-AAUN-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5181.0006
+TCGA-IB-AAUO-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6867.5819
+TCGA-IB-AAUP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3068.0826
+TCGA-IB-AAUQ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4422.1939
+TCGA-IB-AAUR-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2165.0135
+TCGA-IB-AAUS-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2252.8172
+TCGA-IB-AAUT-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5039.4737
+TCGA-IB-AAUU-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7093.3106
+TCGA-LB-A7SX-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11733.7354
+TCGA-LB-A8F3-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3425.3807
+TCGA-LB-A9Q5-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4834.8938
+TCGA-M8-A5N4-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6283.7450
+TCGA-OE-A75W-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6933.9623
+TCGA-PZ-A5RE-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7056.8930
+TCGA-Q3-A5QY-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1739.6438
+TCGA-Q3-AA2A-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6069.2141
+TCGA-RB-A7B8-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5552.5687
+TCGA-RB-AA9M-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5671.2446
+TCGA-S4-A8RM-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6620.3742
+TCGA-S4-A8RO-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4991.9566
+TCGA-S4-A8RP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7089.4653
+TCGA-US-A774-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5495.1579
+TCGA-US-A776-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2957.8638
+TCGA-US-A779-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10874.4389
+TCGA-US-A77E-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8120.0873
+TCGA-US-A77G-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10036.9694
+TCGA-XD-AAUG-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2225.0000
+TCGA-XD-AAUH-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2097.3451
+TCGA-XD-AAUI-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5758.2962
+TCGA-XD-AAUL-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7469.8545
+TCGA-XN-A8T3-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4101.7932
+TCGA-XN-A8T5-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2747.9142
+TCGA-YB-A89D-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5734.8407
+TCGA-YH-A8SY-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6134.3458
+TCGA-YY-A8LH-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9123.5806
+TCGA-Z5-AAPL-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1949.2877
+TCGA-B7-5816-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6083.6201
+TCGA-B7-5818-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6230.5174
+TCGA-B7-A5TI-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7323.2975
+TCGA-B7-A5TJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4474.0187
+TCGA-B7-A5TK-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1941.6455
+TCGA-B7-A5TN-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4690.3975
+TCGA-BR-4187-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2551.3470
+TCGA-BR-4191-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2486.5876
+TCGA-BR-4253-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1710.4137
+TCGA-BR-4255-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3005.3912
+TCGA-BR-4256-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1786.5922
+TCGA-BR-4257-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2099.0654
+TCGA-BR-4267-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5296.2459
+TCGA-BR-4279-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1410.4695
+TCGA-BR-4280-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5026.2546
+TCGA-BR-4292-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4119.3994
+TCGA-BR-4294-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	221.1110
+TCGA-BR-4357-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	44604.3728
+TCGA-BR-4361-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2609.0531
+TCGA-BR-4362-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2505.5521
+TCGA-BR-4363-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1817.0253
+TCGA-BR-4366-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6399.7832
+TCGA-BR-4368-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3266.7151
+TCGA-BR-4369-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16199.7820
+TCGA-BR-4371-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3998.6714
+TCGA-BR-6452-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5817.1846
+TCGA-BR-6453-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3727.5919
+TCGA-BR-6454-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8288.5600
+TCGA-BR-6455-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1848.8593
+TCGA-BR-6456-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4102.5403
+TCGA-BR-6457-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4716.7226
+TCGA-BR-6458-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2758.4687
+TCGA-BR-6563-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3576.5921
+TCGA-BR-6564-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3766.5065
+TCGA-BR-6565-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	15835.1321
+TCGA-BR-6705-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2648.3755
+TCGA-BR-6706-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3090.9091
+TCGA-BR-6707-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2782.0414
+TCGA-BR-6709-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2015.4865
+TCGA-BR-6801-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5213.2937
+TCGA-BR-6803-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4350.4453
+TCGA-BR-7196-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3668.6754
+TCGA-BR-7197-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4146.2244
+TCGA-BR-7703-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6107.6359
+TCGA-BR-7704-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2236.8664
+TCGA-BR-7707-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5331.6659
+TCGA-BR-7715-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16875.7682
+TCGA-BR-7716-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6521.9886
+TCGA-BR-7717-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4714.8310
+TCGA-BR-7722-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4682.3253
+TCGA-BR-7723-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3785.6283
+TCGA-BR-7851-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5715.3619
+TCGA-BR-7901-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5283.9545
+TCGA-BR-7957-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3950.0341
+TCGA-BR-7958-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3929.8396
+TCGA-BR-7959-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7864.6716
+TCGA-BR-8058-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3497.1745
+TCGA-BR-8059-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8870.9939
+TCGA-BR-8060-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	428.7420
+TCGA-BR-8077-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6061.5658
+TCGA-BR-8078-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4732.3460
+TCGA-BR-8080-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2674.4233
+TCGA-BR-8081-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3831.8973
+TCGA-BR-8284-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3082.7511
+TCGA-BR-8286-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4923.9294
+TCGA-BR-8289-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	12940.7948
+TCGA-BR-8291-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3606.6411
+TCGA-BR-8295-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1538.8393
+TCGA-BR-8296-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8387.7005
+TCGA-BR-8297-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2696.8966
+TCGA-BR-8361-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3836.3764
+TCGA-BR-8363-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3463.3863
+TCGA-BR-8364-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5182.0849
+TCGA-BR-8365-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2973.0575
+TCGA-BR-8366-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4251.9841
+TCGA-BR-8367-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6259.0867
+TCGA-BR-8368-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5508.2712
+TCGA-BR-8369-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5083.2288
+TCGA-BR-8371-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1919.9380
+TCGA-BR-8372-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2889.3514
+TCGA-BR-8373-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10439.2745
+TCGA-BR-8380-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3663.2268
+TCGA-BR-8382-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5120.7692
+TCGA-BR-8384-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2322.4425
+TCGA-BR-8483-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	243542.3729
+TCGA-BR-8484-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3656.8802
+TCGA-BR-8485-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4522.0393
+TCGA-BR-8486-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8108.7753
+TCGA-BR-8589-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5118.2473
+TCGA-BR-8590-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10585.1620
+TCGA-BR-8591-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5138.2327
+TCGA-BR-8592-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2892.4018
+TCGA-BR-8676-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1483.8881
+TCGA-BR-8677-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1582.4104
+TCGA-BR-8678-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3038.9881
+TCGA-BR-8679-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4118.2579
+TCGA-BR-8680-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6347.8078
+TCGA-BR-8682-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10702.9250
+TCGA-BR-8683-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6605.1512
+TCGA-BR-8686-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5218.8329
+TCGA-BR-8687-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5573.4850
+TCGA-BR-8690-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5904.6729
+TCGA-BR-A44T-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1400.4317
+TCGA-BR-A44U-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	75809.9174
+TCGA-BR-A452-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1733.8610
+TCGA-BR-A453-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1457.6404
+TCGA-BR-A4CR-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	248.4164
+TCGA-BR-A4CS-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3722.5482
+TCGA-BR-A4IU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3032.1642
+TCGA-BR-A4IV-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1773.0042
+TCGA-BR-A4IY-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5437.8492
+TCGA-BR-A4IZ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2776.7981
+TCGA-BR-A4J1-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4239.8048
+TCGA-BR-A4J2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2979.2268
+TCGA-BR-A4J4-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	244724.6576
+TCGA-BR-A4J5-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2494.7874
+TCGA-BR-A4J6-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6426.0174
+TCGA-BR-A4J7-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3130.1592
+TCGA-BR-A4J8-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3359.0462
+TCGA-BR-A4PD-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3828.5929
+TCGA-BR-A4PE-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	380095.9732
+TCGA-BR-A4PF-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1771.9440
+TCGA-BR-A4QI-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10922.0045
+TCGA-BR-A4QL-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3737.0720
+TCGA-BR-A4QM-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3535.6145
+TCGA-CD-5798-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3908.2815
+TCGA-CD-5799-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	274371.0099
+TCGA-CD-5800-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	54261.0324
+TCGA-CD-5801-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4496.7962
+TCGA-CD-5803-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4517.4550
+TCGA-CD-5804-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	113365.1772
+TCGA-CD-5813-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2390.7962
+TCGA-CD-8524-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3477.0354
+TCGA-CD-8525-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3465.7358
+TCGA-CD-8526-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3727.2546
+TCGA-CD-8527-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3610.1159
+TCGA-CD-8528-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2046.9712
+TCGA-CD-8529-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5066.6443
+TCGA-CD-8530-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1886.6025
+TCGA-CD-8531-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	180.4979
+TCGA-CD-8532-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4657.6320
+TCGA-CD-8533-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2285.6176
+TCGA-CD-8534-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6385.8491
+TCGA-CD-8535-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2104.9581
+TCGA-CD-8536-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4984.8797
+TCGA-CD-A486-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5697.8213
+TCGA-CD-A487-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3641.9903
+TCGA-CD-A489-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5747.4292
+TCGA-CD-A48A-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6386.9128
+TCGA-CD-A48C-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2598.9067
+TCGA-CD-A4MG-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3114.9013
+TCGA-CD-A4MH-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2853.5143
+TCGA-CD-A4MI-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2593.3099
+TCGA-CD-A4MJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7461.2707
+TCGA-CG-4301-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	130634.6121
+TCGA-CG-4304-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7154.4170
+TCGA-CG-4305-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4595.4584
+TCGA-CG-4306-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4169.0574
+TCGA-CG-4436-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2646.1393
+TCGA-CG-4437-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5602.5021
+TCGA-CG-4438-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4191.9368
+TCGA-CG-4440-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2119.3212
+TCGA-CG-4441-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5425.1137
+TCGA-CG-4442-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3926.4478
+TCGA-CG-4443-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6236.7651
+TCGA-CG-4444-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5063.6516
+TCGA-CG-4449-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8869.3578
+TCGA-CG-4460-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3470.1769
+TCGA-CG-4462-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4181.2155
+TCGA-CG-4465-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3090.3640
+TCGA-CG-4466-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	179871.8217
+TCGA-CG-4474-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2748.8772
+TCGA-CG-4475-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4940.5764
+TCGA-CG-4476-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3349.1165
+TCGA-CG-4477-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3242.3178
+TCGA-CG-5716-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5490.2238
+TCGA-CG-5717-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7845.7472
+TCGA-CG-5718-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4781.3628
+TCGA-CG-5719-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8161.7900
+TCGA-CG-5720-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7009.3863
+TCGA-CG-5721-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3576.8711
+TCGA-CG-5722-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8820.8955
+TCGA-CG-5723-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1723.9476
+TCGA-CG-5724-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8873.5388
+TCGA-CG-5725-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5272.5500
+TCGA-CG-5726-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9310.9011
+TCGA-CG-5732-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8802.6517
+TCGA-CG-5734-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3580.3657
+TCGA-D7-5577-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5702.0236
+TCGA-D7-5578-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4573.0014
+TCGA-D7-6518-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1818.1411
+TCGA-D7-6519-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7497.7724
+TCGA-D7-6520-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9177.3472
+TCGA-D7-6521-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4313.8058
+TCGA-D7-6522-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2622.9420
+TCGA-D7-6524-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4973.5022
+TCGA-D7-6525-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7571.4286
+TCGA-D7-6526-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	15622.3573
+TCGA-D7-6527-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5535.4627
+TCGA-D7-6528-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3211.3605
+TCGA-D7-6815-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	33676.0773
+TCGA-D7-6817-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11324.4116
+TCGA-D7-6818-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1504.4748
+TCGA-D7-6820-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16915.2166
+TCGA-D7-6822-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4740.5069
+TCGA-D7-8572-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3477.9465
+TCGA-D7-8573-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	98288.3135
+TCGA-D7-8574-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5171.0589
+TCGA-D7-8575-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9070.5259
+TCGA-D7-8576-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4849.4037
+TCGA-D7-8578-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7994.8631
+TCGA-D7-8579-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16173.6752
+TCGA-D7-A4YT-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10462.9553
+TCGA-D7-A4YU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3333.7357
+TCGA-D7-A4YV-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3294.2130
+TCGA-D7-A4YX-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	57538.5988
+TCGA-D7-A4YY-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8432.5786
+TCGA-D7-A4Z0-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3649.1742
+TCGA-D7-A6EV-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	15005.0621
+TCGA-D7-A6EX-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	270.3361
+TCGA-D7-A6EZ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2269.1723
+TCGA-D7-A6F0-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10958.4027
+TCGA-D7-A6F2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9240.6794
+TCGA-D7-A747-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2185.2368
+TCGA-D7-A748-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2563.5674
+TCGA-D7-A74A-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5533.4050
+TCGA-EQ-8122-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	466892.3519
+TCGA-EQ-A4SO-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7433.1085
+TCGA-F1-6177-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9083.1802
+TCGA-F1-6874-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5474.1912
+TCGA-F1-6875-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4981.4942
+TCGA-F1-A448-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4177.0659
+TCGA-F1-A72C-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3867.8170
+TCGA-FP-7735-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	48519.7698
+TCGA-FP-7829-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4262.6043
+TCGA-FP-7916-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5407.2510
+TCGA-FP-7998-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4118.9390
+TCGA-FP-8099-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5197.9854
+TCGA-FP-8209-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1859.9291
+TCGA-FP-8210-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3183.0144
+TCGA-FP-8211-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5249.0637
+TCGA-FP-8631-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	40711.8003
+TCGA-FP-A4BE-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3826.1403
+TCGA-FP-A4BF-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2915.6429
+TCGA-FP-A8CX-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	185057.2467
+TCGA-FP-A9TM-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4191.8552
+TCGA-HF-7131-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3284.8559
+TCGA-HF-7133-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2999.2160
+TCGA-HF-7134-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4747.9515
+TCGA-HF-7136-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3529.7073
+TCGA-HF-A5NB-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7473.1913
+TCGA-HJ-7597-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5953.8093
+TCGA-HU-8238-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6229.7148
+TCGA-HU-8243-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	22643.6262
+TCGA-HU-8244-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6950.7903
+TCGA-HU-8249-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3789.8350
+TCGA-HU-8602-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5092.1193
+TCGA-HU-8604-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2276.4449
+TCGA-HU-8608-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2417.1779
+TCGA-HU-8610-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4613.1093
+TCGA-HU-A4G2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2910.0481
+TCGA-HU-A4G3-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6942.9077
+TCGA-HU-A4G6-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	86605.0843
+TCGA-HU-A4G8-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5659.7967
+TCGA-HU-A4G9-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8066.7100
+TCGA-HU-A4GC-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4710.9460
+TCGA-HU-A4GD-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6191.9386
+TCGA-HU-A4GF-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	31901.7433
+TCGA-HU-A4GH-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	174242.6975
+TCGA-HU-A4GJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1591.7910
+TCGA-HU-A4GN-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5705.6259
+TCGA-HU-A4GP-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3447.7774
+TCGA-HU-A4GQ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3479.3024
+TCGA-HU-A4GT-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4029.0515
+TCGA-HU-A4GU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6406.1346
+TCGA-HU-A4GX-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4585.0139
+TCGA-HU-A4GY-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1815.1648
+TCGA-HU-A4H2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3355.9519
+TCGA-HU-A4H3-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	9292.6273
+TCGA-HU-A4H4-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3386.4370
+TCGA-HU-A4H5-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5195.7036
+TCGA-HU-A4H6-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3262.9747
+TCGA-HU-A4HB-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4031.5789
+TCGA-HU-A4HD-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	231008.7308
+TCGA-IN-7806-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8384.4823
+TCGA-IN-7808-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	897.3660
+TCGA-IN-8462-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6037.9765
+TCGA-IN-A6RI-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4591.6509
+TCGA-IN-A6RJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11668.6510
+TCGA-IN-A6RL-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6236.7958
+TCGA-IN-A6RN-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4779.5936
+TCGA-IN-A6RO-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	139383.6115
+TCGA-IN-A6RR-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	10918.7750
+TCGA-IN-A6RS-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	12413.7056
+TCGA-IN-A7NR-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6927.9412
+TCGA-IN-A7NT-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3234.3934
+TCGA-IN-A7NU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3741.9805
+TCGA-IN-AB1V-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	12024.0385
+TCGA-IN-AB1X-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3815.6337
+TCGA-IP-7968-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	24812.8671
+TCGA-KB-A6F7-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4408.9158
+TCGA-KB-A93G-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1807.6995
+TCGA-KB-A93J-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6549.3494
+TCGA-MX-A5UG-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4160.8269
+TCGA-MX-A663-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3391.8285
+TCGA-MX-A666-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5963.1769
+TCGA-R5-A7O7-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1583.4522
+TCGA-R5-A7ZE-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	73623.2383
+TCGA-R5-A7ZF-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3051.2546
+TCGA-R5-A7ZI-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1048.2960
+TCGA-R5-A7ZR-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4932.8413
+TCGA-R5-A805-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4792.3497
+TCGA-RD-A7BS-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5472.3502
+TCGA-RD-A7BT-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	184447.2540
+TCGA-RD-A7BW-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2374.9666
+TCGA-RD-A7C1-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2586.0566
+TCGA-RD-A8MV-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3740.3365
+TCGA-RD-A8MW-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3511.4943
+TCGA-RD-A8N0-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2440.4040
+TCGA-RD-A8N1-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3019.6725
+TCGA-RD-A8N2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1457.7877
+TCGA-RD-A8N4-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	1548.1036
+TCGA-RD-A8N5-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2644.1957
+TCGA-RD-A8N6-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5239.8829
+TCGA-RD-A8N9-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3301.6565
+TCGA-SW-A7EA-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3520.9751
+TCGA-SW-A7EB-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4382.3065
+TCGA-VQ-A8DU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5620.6262
+TCGA-VQ-A8DV-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3004.7455
+TCGA-VQ-A8DZ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	267447.1571
+TCGA-VQ-A8E2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7662.6784
+TCGA-VQ-A8E7-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	17964.9934
+TCGA-VQ-A8P3-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4899.0036
+TCGA-VQ-A8PE-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4742.0100
+TCGA-VQ-A8PK-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	8942.2313
+TCGA-VQ-A8PM-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11080.9583
+TCGA-VQ-A8PQ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3210.1890
+TCGA-VQ-A91Q-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7008.8583
+TCGA-VQ-A91U-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4247.9700
+TCGA-VQ-A91V-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7660.5375
+TCGA-VQ-A92D-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	16691.2752
+TCGA-VQ-A94T-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3783.9450
+TCGA-VQ-AA64-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5184.1507
+TCGA-VQ-AA68-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	11847.2440
+TCGA-VQ-AA69-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7987.6261
+TCGA-VQ-AA6A-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	7775.7400
+TCGA-VQ-AA6B-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	21377.3472
+TCGA-VQ-AA6F-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	3572.2452
+TCGA-VQ-AA6G-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	290435.1343
+TCGA-VQ-AA6I-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	4399.2544
+TCGA-VQ-AA6J-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	2940.0850
+TCGA-VQ-AA6K-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	6310.2473
+TCGA-ZA-A8F6-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Mutated	5797.3239
+TCGA-AG-3902-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V842I	6338.0721
+TCGA-2H-A9GH-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V777L	4682.3144
+TCGA-JY-A938-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S310F	19043.4862
+TCGA-L5-A4OI-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V777L, A241V	10020.2887
+TCGA-L5-A4OU-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	M774dup	24012.1758
+TCGA-L5-A88V-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	L662Q	451720.1987
+TCGA-L5-A8NM-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V777M	6645.5476
+TCGA-R6-A6DQ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	K150E	3054.0949
+TCGA-R6-A6KZ-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	R784C	7077.4228
+TCGA-R6-A8W8-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	T216M	8131.3161
+TCGA-R6-A8WC-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S310F	74209.8802
+TCGA-R6-A8WG-01	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V839M	4584.4582
+TCGA-BC-A3KG-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	L49P	681.6310
+TCGA-EP-A2KA-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S573*	69.9881
+TCGA-ZP-A9CV-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	D982Y	1923.5589
+TCGA-IB-7651-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V842I, E930D, A87T, A339T, R1146Q	2797.4477
+TCGA-IB-8127-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V842I	4614.3884
+TCGA-BR-4201-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	G732S	2725.0097
+TCGA-BR-4370-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S310F	4613.7358
+TCGA-BR-6566-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V777M	4856.6398
+TCGA-BR-6802-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	R678Q	4361.7158
+TCGA-BR-6852-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	G222C	5670.0143
+TCGA-BR-8381-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	D769Y	5425.7548
+TCGA-BR-8487-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	P612H	4967.5550
+TCGA-BR-8588-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S310F	3532.8810
+TCGA-CG-4469-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	R678Q	5060.6152
+TCGA-D7-8570-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	P1170A	3423.2501
+TCGA-D7-A6EY-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	A1039T, T862A, V659D	7553.1064
+TCGA-HF-7132-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	A1039T	6984.0852
+TCGA-HU-A4H0-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	D769Y	9682.1344
+TCGA-HU-A4H8-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	V842I	8450.1469
+TCGA-IN-8663-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	G776V, P39L	3610.8757
+TCGA-MX-A5UJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	S310Y, S653F	5200.8114
+TCGA-VQ-A8DT-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	L453M	6628.9248
+TCGA-VQ-A8P2-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	X254_splice	4314.2376
+TCGA-3L-AA1B-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6777.0793
+TCGA-4N-A93T-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7848.5728
+TCGA-4T-AA8H-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8152.8057
+TCGA-5M-AAT4-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4774.5267
+TCGA-5M-AAT5-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3623.5352
+TCGA-5M-AAT6-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2584.9128
+TCGA-5M-AATA-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5613.1213
+TCGA-5M-AATE-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4408.5796
+TCGA-A6-2675-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6940.5260
+TCGA-A6-2682-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3068.3310
+TCGA-A6-2684-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2909.2494
+TCGA-A6-2685-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4359.5910
+TCGA-A6-2686-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6170.1609
+TCGA-A6-4105-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2432.9104
+TCGA-A6-5656-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6462.9425
+TCGA-A6-5657-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4541.1208
+TCGA-A6-5659-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3782.7023
+TCGA-A6-5660-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7145.6186
+TCGA-A6-5661-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3287.4693
+TCGA-A6-5662-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6115.5844
+TCGA-A6-5664-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4162.0549
+TCGA-A6-5665-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5809.2571
+TCGA-A6-5666-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4323.9939
+TCGA-A6-5667-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4931.8495
+TCGA-A6-6137-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9100.7269
+TCGA-A6-6138-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4850.9964
+TCGA-A6-6140-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5492.8167
+TCGA-A6-6141-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5951.0995
+TCGA-A6-6142-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8906.6745
+TCGA-A6-6648-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3634.0534
+TCGA-A6-6649-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5854.1019
+TCGA-A6-6650-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4491.8001
+TCGA-A6-6651-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5107.7374
+TCGA-A6-6652-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	10767.0031
+TCGA-A6-6653-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6128.4218
+TCGA-A6-6654-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5055.7467
+TCGA-A6-6780-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3288.6802
+TCGA-A6-6781-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5902.9173
+TCGA-A6-6782-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5045.8554
+TCGA-A6-A565-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4719.4085
+TCGA-A6-A566-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2278.4313
+TCGA-A6-A567-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6603.5687
+TCGA-A6-A56B-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2739.5957
+TCGA-A6-A5ZU-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6384.4868
+TCGA-AA-3489-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2900.6070
+TCGA-AA-3492-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5094.1315
+TCGA-AA-3495-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6535.1276
+TCGA-AA-3496-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6260.0711
+TCGA-AA-3502-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5900.0000
+TCGA-AA-3506-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6026.7446
+TCGA-AA-3509-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3575.6471
+TCGA-AA-3511-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5558.8518
+TCGA-AA-3655-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6328.2337
+TCGA-AA-3660-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4564.7343
+TCGA-AA-3662-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3847.0886
+TCGA-AA-3663-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3624.7253
+TCGA-AA-3675-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3890.1850
+TCGA-AA-3697-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3881.7337
+TCGA-AA-3712-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4645.9365
+TCGA-AA-3713-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4230.1344
+TCGA-AA-A02K-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	16457.4151
+TCGA-AD-5900-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6238.0705
+TCGA-AD-6548-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3846.7981
+TCGA-AD-6888-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	72115.1133
+TCGA-AD-6889-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4458.2693
+TCGA-AD-6890-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5667.2577
+TCGA-AD-6895-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6411.2176
+TCGA-AD-6899-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6063.6784
+TCGA-AD-6901-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4920.1231
+TCGA-AD-6963-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5497.3675
+TCGA-AD-6964-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6046.7407
+TCGA-AD-6965-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4410.1240
+TCGA-AD-A5EJ-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5335.2827
+TCGA-AD-A5EK-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4697.3180
+TCGA-AM-5820-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3739.4572
+TCGA-AM-5821-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1469.1082
+TCGA-AU-3779-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5226.4790
+TCGA-AU-6004-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7098.7209
+TCGA-AY-5543-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3826.4984
+TCGA-AY-6196-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1749.0996
+TCGA-AY-6197-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4447.6697
+TCGA-AY-6386-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5678.2812
+TCGA-AY-A54L-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3611.5352
+TCGA-AY-A69D-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3928.2607
+TCGA-AY-A71X-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6091.0838
+TCGA-AY-A8YK-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6192.6046
+TCGA-AZ-4313-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4144.2080
+TCGA-AZ-4315-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2598.6079
+TCGA-AZ-4323-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1821.1015
+TCGA-AZ-4614-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	11383.9869
+TCGA-AZ-4615-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3809.6808
+TCGA-AZ-4616-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2815.6452
+TCGA-AZ-4682-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3646.9745
+TCGA-AZ-4684-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3768.2536
+TCGA-AZ-5403-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3235.0764
+TCGA-AZ-5407-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6662.9482
+TCGA-AZ-6598-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2167.9266
+TCGA-AZ-6599-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6126.0986
+TCGA-AZ-6600-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6942.7238
+TCGA-AZ-6601-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5575.9494
+TCGA-AZ-6603-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4986.1962
+TCGA-AZ-6605-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4411.4173
+TCGA-AZ-6606-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4310.6352
+TCGA-AZ-6607-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6781.4457
+TCGA-AZ-6608-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3855.1020
+TCGA-CA-5254-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	15068.4724
+TCGA-CA-5255-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5119.8668
+TCGA-CA-5256-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3484.8765
+TCGA-CA-5796-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7536.1022
+TCGA-CA-5797-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2917.3800
+TCGA-CA-6715-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4121.2121
+TCGA-CA-6716-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4246.5259
+TCGA-CA-6717-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4895.5425
+TCGA-CA-6718-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2999.6082
+TCGA-CA-6719-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8976.8197
+TCGA-CK-4947-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4896.8724
+TCGA-CK-4948-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7058.8816
+TCGA-CK-4950-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6710.7553
+TCGA-CK-4951-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4916.0740
+TCGA-CK-4952-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2990.9947
+TCGA-CK-5912-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3750.4990
+TCGA-CK-5913-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5534.7076
+TCGA-CK-5914-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1970.0284
+TCGA-CK-5915-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4702.4867
+TCGA-CK-5916-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4749.8917
+TCGA-CK-6746-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3975.3650
+TCGA-CK-6747-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6247.7500
+TCGA-CK-6748-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6592.5625
+TCGA-CK-6751-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5236.1427
+TCGA-CM-4743-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2518.6800
+TCGA-CM-4744-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4525.0495
+TCGA-CM-4747-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5906.2049
+TCGA-CM-4751-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6005.4845
+TCGA-CM-5344-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5258.5378
+TCGA-CM-5348-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5215.3652
+TCGA-CM-5349-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3516.1108
+TCGA-CM-5860-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2849.3231
+TCGA-CM-5861-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6110.2473
+TCGA-CM-5862-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2654.2484
+TCGA-CM-5863-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6257.7543
+TCGA-CM-5864-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2661.4441
+TCGA-CM-5868-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4870.2509
+TCGA-CM-6161-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4602.9979
+TCGA-CM-6162-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3438.1769
+TCGA-CM-6163-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4705.1889
+TCGA-CM-6164-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5675.5654
+TCGA-CM-6165-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5336.7799
+TCGA-CM-6166-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3341.9162
+TCGA-CM-6167-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4134.0753
+TCGA-CM-6168-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3297.2404
+TCGA-CM-6169-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4719.4995
+TCGA-CM-6170-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7089.8129
+TCGA-CM-6171-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2826.2288
+TCGA-CM-6172-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7646.9093
+TCGA-CM-6674-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4500.0000
+TCGA-CM-6675-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8383.0707
+TCGA-CM-6676-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6408.5837
+TCGA-CM-6677-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2901.8280
+TCGA-CM-6678-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7338.9904
+TCGA-CM-6679-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6131.0182
+TCGA-CM-6680-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5028.3861
+TCGA-D5-5537-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3991.0924
+TCGA-D5-5538-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3619.5182
+TCGA-D5-5539-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6519.3188
+TCGA-D5-5540-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1681.6502
+TCGA-D5-5541-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5168.7201
+TCGA-D5-6529-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5780.0276
+TCGA-D5-6530-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9197.3103
+TCGA-D5-6531-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4411.4869
+TCGA-D5-6532-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5842.2671
+TCGA-D5-6533-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2359.7811
+TCGA-D5-6534-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3853.9352
+TCGA-D5-6535-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6700.2801
+TCGA-D5-6536-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4091.1744
+TCGA-D5-6537-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9961.1088
+TCGA-D5-6538-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5474.2985
+TCGA-D5-6539-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5132.3202
+TCGA-D5-6540-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6448.2233
+TCGA-D5-6541-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4294.5692
+TCGA-D5-6898-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4041.7490
+TCGA-D5-6920-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4352.3622
+TCGA-D5-6922-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5175.4118
+TCGA-D5-6923-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3427.1225
+TCGA-D5-6924-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5782.7022
+TCGA-D5-6926-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4680.0170
+TCGA-D5-6927-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5014.8075
+TCGA-D5-6928-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3630.7496
+TCGA-D5-6929-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6105.2233
+TCGA-D5-6930-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4965.2505
+TCGA-D5-6931-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5257.2498
+TCGA-D5-6932-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5270.3282
+TCGA-D5-7000-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4295.2073
+TCGA-DM-A0X9-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3768.7119
+TCGA-DM-A0XD-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6574.9971
+TCGA-DM-A0XF-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4610.0298
+TCGA-DM-A1D0-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	87303.7975
+TCGA-DM-A1D4-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3320.4240
+TCGA-DM-A1D6-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2627.9825
+TCGA-DM-A1D7-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5124.6048
+TCGA-DM-A1D8-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3845.3915
+TCGA-DM-A1D9-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2757.9470
+TCGA-DM-A1DA-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3662.7426
+TCGA-DM-A1DB-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3184.2294
+TCGA-DM-A1HA-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6933.9189
+TCGA-DM-A1HB-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4672.9801
+TCGA-DM-A280-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4679.6199
+TCGA-DM-A282-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4011.9505
+TCGA-DM-A285-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6786.1767
+TCGA-DM-A288-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4862.3828
+TCGA-DM-A28A-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2321.6547
+TCGA-DM-A28C-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5017.7246
+TCGA-DM-A28E-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5976.2012
+TCGA-DM-A28F-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4553.7068
+TCGA-DM-A28G-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5592.6606
+TCGA-DM-A28H-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2211.4625
+TCGA-DM-A28K-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4378.6307
+TCGA-DM-A28M-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4512.7273
+TCGA-F4-6459-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3472.8748
+TCGA-F4-6460-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3506.2565
+TCGA-F4-6461-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3300.8357
+TCGA-F4-6463-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4801.0000
+TCGA-F4-6569-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4986.9489
+TCGA-F4-6570-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5271.4748
+TCGA-F4-6703-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2964.5444
+TCGA-F4-6704-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1869.4254
+TCGA-F4-6805-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3897.7959
+TCGA-F4-6806-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6412.5921
+TCGA-F4-6807-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4814.3744
+TCGA-F4-6808-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5295.4411
+TCGA-F4-6809-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2853.8136
+TCGA-F4-6854-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5583.1813
+TCGA-F4-6855-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5307.8056
+TCGA-F4-6856-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6595.3688
+TCGA-G4-6293-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6246.0233
+TCGA-G4-6294-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4118.6421
+TCGA-G4-6295-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2085.2873
+TCGA-G4-6297-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5013.4228
+TCGA-G4-6298-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4714.3653
+TCGA-G4-6299-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4893.5396
+TCGA-G4-6302-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4438.3026
+TCGA-G4-6303-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	11108.3197
+TCGA-G4-6304-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5958.9520
+TCGA-G4-6306-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6040.8163
+TCGA-G4-6307-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6031.2219
+TCGA-G4-6309-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4988.1087
+TCGA-G4-6310-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5373.5030
+TCGA-G4-6311-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6610.7030
+TCGA-G4-6314-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4066.6738
+TCGA-G4-6315-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4993.8303
+TCGA-G4-6317-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5728.5636
+TCGA-G4-6317-02	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4699.9448
+TCGA-G4-6320-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7199.2076
+TCGA-G4-6321-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9917.6548
+TCGA-G4-6322-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3434.3964
+TCGA-G4-6323-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6422.9114
+TCGA-G4-6586-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5113.1433
+TCGA-G4-6588-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6415.1227
+TCGA-G4-6625-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3479.3651
+TCGA-G4-6626-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4558.7719
+TCGA-G4-6627-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4305.4807
+TCGA-G4-6628-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4496.6833
+TCGA-NH-A50T-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3651.7837
+TCGA-NH-A50U-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5355.7414
+TCGA-NH-A50V-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3217.9899
+TCGA-NH-A5IV-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7844.7174
+TCGA-NH-A6GA-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6242.4774
+TCGA-NH-A6GB-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5927.7332
+TCGA-NH-A6GC-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3739.4035
+TCGA-NH-A8F7-06	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6974.2969
+TCGA-NH-A8F7-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8156.7347
+TCGA-NH-A8F8-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4693.4307
+TCGA-QG-A5YV-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3730.3946
+TCGA-QG-A5YW-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4845.5317
+TCGA-QG-A5YX-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7929.6236
+TCGA-QG-A5Z1-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8777.9928
+TCGA-QG-A5Z2-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6842.6466
+TCGA-QL-A97D-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3724.1379
+TCGA-RU-A8FL-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5721.6167
+TCGA-SS-A7HO-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6522.2855
+TCGA-T9-A92H-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4153.9756
+TCGA-WS-AB45-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1387.8971
+TCGA-AF-2687-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2646.6582
+TCGA-AF-2690-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3226.6574
+TCGA-AF-2693-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4763.3885
+TCGA-AF-3911-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4984.6023
+TCGA-AF-4110-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3621.6047
+TCGA-AF-5654-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3068.5528
+TCGA-AF-6136-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2843.5930
+TCGA-AF-6655-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2812.6769
+TCGA-AF-6672-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5556.5205
+TCGA-AF-A56K-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6662.3084
+TCGA-AF-A56L-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	99620.3774
+TCGA-AF-A56N-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5541.4476
+TCGA-AG-3591-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4202.5408
+TCGA-AG-3592-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2835.6296
+TCGA-AG-3725-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7144.8480
+TCGA-AG-3731-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3512.1858
+TCGA-AG-3732-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8477.0975
+TCGA-AG-3742-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5980.4688
+TCGA-AG-4021-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6384.1577
+TCGA-AG-4022-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4671.3843
+TCGA-AH-6544-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5442.9049
+TCGA-AH-6547-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4242.6181
+TCGA-AH-6549-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3640.6861
+TCGA-AH-6643-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	129264.7277
+TCGA-AH-6644-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3274.0341
+TCGA-AH-6897-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6658.8545
+TCGA-AH-6903-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4420.8015
+TCGA-BM-6198-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2529.1528
+TCGA-CI-6619-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4510.0020
+TCGA-CI-6620-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5244.9319
+TCGA-CI-6621-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3180.3975
+TCGA-CI-6622-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4147.5201
+TCGA-CI-6623-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4228.1073
+TCGA-CI-6624-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5454.3779
+TCGA-CL-4957-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4035.9379
+TCGA-CL-5917-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4515.6638
+TCGA-CL-5918-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5310.2786
+TCGA-DC-4745-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2608.5766
+TCGA-DC-4749-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2970.3802
+TCGA-DC-5337-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2355.3499
+TCGA-DC-5869-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3009.6479
+TCGA-DC-6154-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8071.5274
+TCGA-DC-6155-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2457.5163
+TCGA-DC-6156-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4247.4325
+TCGA-DC-6157-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5318.3408
+TCGA-DC-6158-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3446.1469
+TCGA-DC-6160-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4032.1264
+TCGA-DC-6681-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5594.7498
+TCGA-DC-6682-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5800.2195
+TCGA-DC-6683-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5637.6980
+TCGA-DT-5265-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8042.8427
+TCGA-DY-A0XA-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3826.0724
+TCGA-DY-A1DC-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4360.5471
+TCGA-DY-A1DD-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5014.9314
+TCGA-DY-A1DE-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2916.5339
+TCGA-DY-A1DF-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6777.7094
+TCGA-DY-A1DG-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7297.2045
+TCGA-DY-A1H8-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2969.5625
+TCGA-EF-5830-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2439.3939
+TCGA-EF-5831-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2304.6829
+TCGA-EI-6506-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5873.5790
+TCGA-EI-6507-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2893.3921
+TCGA-EI-6508-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5141.4209
+TCGA-EI-6509-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	511917.4691
+TCGA-EI-6510-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8993.1741
+TCGA-EI-6511-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3219.3786
+TCGA-EI-6512-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3222.7529
+TCGA-EI-6513-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4822.8883
+TCGA-EI-6514-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9709.4682
+TCGA-EI-6881-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5567.3735
+TCGA-EI-6882-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3427.1012
+TCGA-EI-6883-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5408.3100
+TCGA-EI-6884-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6738.2550
+TCGA-EI-6885-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3899.9062
+TCGA-EI-6917-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4361.1840
+TCGA-EI-7002-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6763.4608
+TCGA-EI-7004-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3351.0823
+TCGA-F5-6464-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3664.8192
+TCGA-F5-6465-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4954.9902
+TCGA-F5-6571-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7032.6644
+TCGA-F5-6702-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2509.7067
+TCGA-F5-6810-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3691.4222
+TCGA-F5-6811-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5718.0451
+TCGA-F5-6812-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3604.8914
+TCGA-F5-6813-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	101676.7147
+TCGA-F5-6814-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2501.4205
+TCGA-F5-6861-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4736.6678
+TCGA-F5-6863-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2687.7323
+TCGA-F5-6864-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7501.1355
+TCGA-G5-6233-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3279.3908
+TCGA-G5-6235-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6489.1317
+TCGA-G5-6572-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5092.4879
+TCGA-G5-6572-02	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4310.1274
+TCGA-G5-6641-01	Colorectal Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7205.6152
+TCGA-V5-A7RC-06	Esophageal Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3692.7895
+TCGA-BC-4072-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5456.8033
+TCGA-BC-A10S-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7377.9169
+TCGA-BC-A69I-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1767.5829
+TCGA-DD-AACA-02	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2174.4172
+TCGA-G3-A25X-01	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2284.6674
+TCGA-ZS-A9CF-02	Liver Hepatocellular Carcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1962.9172
+TCGA-2J-AABP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1170.4366
+TCGA-2L-AAQM-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	646.2908
+TCGA-3A-A9IJ-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1020.8804
+TCGA-3A-A9IL-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	823.0574
+TCGA-3A-A9IN-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	821.5935
+TCGA-3A-A9IO-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	394.6722
+TCGA-3A-A9IR-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	289.8738
+TCGA-3A-A9IS-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	369.8319
+TCGA-3A-A9IV-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	510.1726
+TCGA-F2-6880-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3149.4323
+TCGA-F2-7273-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3069.5941
+TCGA-F2-7276-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2999.3302
+TCGA-FB-A7DR-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2991.6771
+TCGA-FB-AAPP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3489.4801
+TCGA-H8-A6C1-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5171.8750
+TCGA-HV-A7OP-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9854.9540
+TCGA-HZ-7289-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4657.6059
+TCGA-HZ-7918-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3240.8998
+TCGA-HZ-7920-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1397.4771
+TCGA-HZ-7923-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2709.7416
+TCGA-HZ-7924-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6134.4140
+TCGA-HZ-8638-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5278.1907
+TCGA-HZ-A9TJ-06	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8201.0686
+TCGA-IB-7654-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6901.9547
+TCGA-IB-AAUV-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1934.1615
+TCGA-IB-AAUW-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5530.0826
+TCGA-L1-A7W4-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3516.3943
+TCGA-RL-AAAS-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4323.6870
+TCGA-US-A77J-01	Pancreatic Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3073.0816
+TCGA-3M-AB46-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5049.6289
+TCGA-3M-AB47-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1936.7347
+TCGA-BR-4367-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2980.7821
+TCGA-BR-8362-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6449.7842
+TCGA-BR-A4J9-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1538.1161
+TCGA-CG-4472-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3497.4229
+TCGA-KB-A93H-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2496.8976
+TCGA-RD-A8NB-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5089.6833
+TCGA-VQ-A8E0-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4830.1359
+TCGA-VQ-A8E3-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5699.9372
+TCGA-VQ-A8P5-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	296919.5187
+TCGA-VQ-A8P8-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4539.0708
+TCGA-VQ-A8PB-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4311.3443
+TCGA-VQ-A8PC-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7951.3866
+TCGA-VQ-A8PD-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4385.9821
+TCGA-VQ-A8PF-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3893.3600
+TCGA-VQ-A8PH-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8507.8780
+TCGA-VQ-A8PJ-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	285959.3568
+TCGA-VQ-A8PO-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4826.3866
+TCGA-VQ-A8PP-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	11327.2191
+TCGA-VQ-A8PU-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7704.7345
+TCGA-VQ-A8PX-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5474.4216
+TCGA-VQ-A91A-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	2950.8782
+TCGA-VQ-A91D-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5830.1240
+TCGA-VQ-A91E-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6204.9091
+TCGA-VQ-A91K-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9612.5111
+TCGA-VQ-A91N-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3662.4238
+TCGA-VQ-A91S-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	31009.7254
+TCGA-VQ-A91W-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	5397.3684
+TCGA-VQ-A91X-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	177208.9225
+TCGA-VQ-A91Y-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3584.8052
+TCGA-VQ-A91Z-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	9035.5836
+TCGA-VQ-A922-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	12200.2251
+TCGA-VQ-A923-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6529.9800
+TCGA-VQ-A924-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3665.0376
+TCGA-VQ-A925-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	14560.9258
+TCGA-VQ-A927-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	6091.7268
+TCGA-VQ-A928-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	4844.1035
+TCGA-VQ-A94O-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	8741.4599
+TCGA-VQ-A94P-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1602.5029
+TCGA-VQ-A94R-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	7031.8753
+TCGA-VQ-A94U-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	3265.0560
+TCGA-VQ-AA6D-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	23803.1262
+TCGA-ZQ-A9CR-01	Stomach Adenocarcinoma (TCGA, Provisional)	RNA Seq V2	ERBB2	Not Sequenced	1331.4440
